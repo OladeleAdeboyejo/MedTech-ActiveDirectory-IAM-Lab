@@ -1,2 +1,0 @@
-# MedTech-ActiveDirectory-IAM-Lab
-This portfolio documents a simulated enterprise IT environment designed to replicate real-world operations in a healthcare or MedTech organisation. The environment was built using VirtualBox with Windows Server acting as the Domain Controller and Windows clients joined to the Active Directory domain. 
