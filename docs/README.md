@@ -1,1 +1,0 @@
-# MedTech-ActiveDirectory-IAM-Lab
